@@ -2,7 +2,7 @@
 
 > *Construído para existir.*
 
-DvoiLab é um laboratório pessoal de desenvolvimento — um espaço para experimentar tecnologias, aprender em público e lançar produtos reais.
+DvoiLab é um laboratório de desenvolvimento — um espaço para experimentar tecnologias, aprender em público e lançar produtos reais.
 
 Cada projeto aqui existe porque surgiu uma vontade de aprender algo na prática. Não em tutoriais, mas em produtos com usuários reais, problemas reais e decisões técnicas que importam.
 
