@@ -15,6 +15,8 @@ A ideia é simples: **experimentar, lançar e iterar**. Caos organizado com inte
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
 | [Dvoi](https://dvoi.dvoilab.com) | App para casais — gastos compartilhados, lista de compras e agenda em tempo real | Em desenvolvimento |
+| [Pomosh](#) | Helpdesk Free | Em desenvolvimento |
+| [Dozor](#) | Visual Api Free | Em desenvolvimento |
 | ??? | O próximo experimento está sendo planejado | Em breve |
 
 ---
