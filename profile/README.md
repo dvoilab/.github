@@ -2,9 +2,7 @@
 
 > *Construído para existir.*
 
-DvoiLab é um laboratório de desenvolvimento — um espaço para experimentar tecnologias, aprender em público e lançar produtos reais.
-
-Cada projeto aqui existe porque surgiu uma vontade de aprender algo na prática. Não em tutoriais, mas em produtos com usuários reais, problemas reais e decisões técnicas que importam.
+DvoiLab é um laboratório de desenvolvimento — um espaço para experimentar tecnologia e lançar produtos reais.
 
 A ideia é simples: **experimentar, lançar e iterar**. Caos organizado com intenção.
 
@@ -14,10 +12,8 @@ A ideia é simples: **experimentar, lançar e iterar**. Caos organizado com inte
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
-| [Dvoi](https://dvoi.dvoilab.com) | App para casais — gastos compartilhados, lista de compras e agenda em tempo real | Em desenvolvimento |
-| [Pomosh](#) | Helpdesk Free | Em desenvolvimento |
-| [Dozor](#) | Visual Api Free | Em desenvolvimento |
-| ??? | O próximo experimento está sendo planejado | Em breve |
+| [Dvoi](https://dvoiapp.com) | App para casais — gastos compartilhados, lista de compras e agenda em tempo real | Em desenvolvimento |
+| [Tabino](https://tabino.com.br) | App para avaliação e descoberta de lugares | Em desenvolvimento |
 
 ---
 
@@ -25,9 +21,7 @@ A ideia é simples: **experimentar, lançar e iterar**. Caos organizado com inte
 
 - Projetos reais, não side-projects abandonados
 - Stack moderna com escolhas técnicas deliberadas
-- Aprendizado em público — falhas incluídas
-- Código aberto sempre que possível
-
+  
 ---
 
 ## Contato
